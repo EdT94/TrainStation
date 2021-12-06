@@ -1,6 +1,4 @@
 # TrainStation
-Final Project - Data Bases course
-
 
 The system describes the movement of trains between different stations, allocation of workers between different stations and railway routes and shows passenger statistics between different destinations. The purpose of the system: To optimize the train traffic (preventing delays), adjusting the number of passengers to the train route / wagons, according to demand.
 
